@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Selected Product/n]]>
+    </line>
+    <line>
+      <![CDATA[<br> <img src='D:\Users\akgupta\Trainings\AmazonWorkspace\Amazon\test-output\Screeshots\SelectedProduct_Shoe_20190627_192757.png' height='400' /></br>]]>
+    </line>
+    <line>
+      <![CDATA[Cart Has Selected Product]]>
+    </line>
+    <line>
+      <![CDATA[<br> <img src='D:\Users\akgupta\Trainings\AmazonWorkspace\Amazon\test-output\Screeshots\ViewCart_20190627_192802.png' height='400' /></br>]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="15993" started-at="2019-06-27T13:57:46Z" finished-at="2019-06-27T13:58:02Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="15993" started-at="2019-06-27T13:57:46Z" finished-at="2019-06-27T13:58:02Z">
+      <class name="Amazon.OrderingTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:Amazon.OrderingTest@604ed9f0]" name="setup" is-config="true" duration-ms="3513" started-at="2019-06-27T13:57:43Z" finished-at="2019-06-27T13:57:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:Amazon.OrderingTest@604ed9f0]" name="beforeClass" is-config="true" duration-ms="2685" started-at="2019-06-27T13:57:46Z" finished-at="2019-06-27T13:57:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="orderShoesTest()[pri:0, instance:Amazon.OrderingTest@604ed9f0]" name="orderShoesTest" duration-ms="13286" started-at="2019-06-27T13:57:49Z" finished-at="2019-06-27T13:58:02Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Selected Product/n]]>
+            </line>
+            <line>
+              <![CDATA[<br> <img src='D:\Users\akgupta\Trainings\AmazonWorkspace\Amazon\test-output\Screeshots\SelectedProduct_Shoe_20190627_192757.png' height='400' /></br>]]>
+            </line>
+            <line>
+              <![CDATA[Cart Has Selected Product]]>
+            </line>
+            <line>
+              <![CDATA[<br> <img src='D:\Users\akgupta\Trainings\AmazonWorkspace\Amazon\test-output\Screeshots\ViewCart_20190627_192802.png' height='400' /></br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- orderShoesTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Amazon.OrderingTest@604ed9f0]" name="tearDown" is-config="true" duration-ms="719" started-at="2019-06-27T13:58:02Z" finished-at="2019-06-27T13:58:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Amazon.OrderingTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
